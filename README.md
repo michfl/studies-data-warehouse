@@ -6,3 +6,10 @@
 
 ## Data samples:
 - Data samples created with generator developed by [**@Majkelevsky**](https://github.com/Majkelevsky/)
+
+## Business Intelligence and data visualization:
+![KPIs image](bi/kpi.png)
+![diagrams image 1](bi/1.png)
+![diagrams image 1](bi/2.png)
+![diagrams image 1](bi/3.png)
+![diagrams image 1](bi/4.png)
