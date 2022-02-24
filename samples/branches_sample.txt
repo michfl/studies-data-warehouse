@@ -1,0 +1,15 @@
+1|Poland|Warsaw|ul. Dusznicka 63
+2|Poland|Cracow|ul. Społeczna 61
+3|Poland|Sopot|ul. Kantorowicka 64
+4|United Kingdom|London|64 City Walls Rd
+5|United Kingdom|Manchester|51 Wenlock Terrace
+6|United Kingdom|Brighton|95 Guildry street
+7|Germany|Berlin|Konstanzer Strasse 92
+8|Germany|Monachium|Jenaer Strasse 57
+9|Germany|Cologne|Mellingburgredder 75
+10|France|Paris|17 rue Petite Fusterie
+11|France|Lyon|48 Rue de Strasbourg
+12|France|Marseille|28 rue Isambard
+13|Spain|Madrid|Rio Segura 88
+14|Spain|Barcelona|Salzillo 41
+15|Spain|Valencia|Castelao 72
